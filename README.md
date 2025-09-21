@@ -1,6 +1,5 @@
 L. is a game where you teleport into a world where you have to recover your souls while fighting enemies and then a boss. The plan is to have the character spawn into the level picking up weapons and souls to unlock certain attributes to get stronger so the character can face off against the main boss.
 
-List the classes in your game for organized project development. 
 
 Player character
 Boss character
